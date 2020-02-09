@@ -1,0 +1,101 @@
+body {
+  background-color: rgb(252, 248, 200);
+  /* font-family: 'Playfair Display', serif; */
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.cover {
+  display: flex;
+  justify-content: center;
+}
+
+.cover img {
+  padding-top: 60px;
+  width: 300px;
+}
+
+.book-name {
+  text-align: center;
+  color: rgb(233, 14, 14);
+  font-size: 50px;
+  font-family: "Playfair Display", serif;
+}
+
+.quote {
+  font-family: "Playfair Display", serif;
+  font-style: 400;
+  background-color: aqua;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 40px;
+  color: rgb(65, 185, 41);
+  font-family: "Playfair Display", serif;
+}
+
+a {
+  font-size: 18px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(0, 25, 253);
+}
+
+strong {
+  font-size: 20px;
+  color: rgb(3, 138, 115);
+}
+
+ul {
+  padding-bottom: 60px;
+}
+
+.table {
+  display: flex;
+  justify-content: center;
+}
+
+.author-page {
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+  /* color: rgb(63, 132, 197); */
+}
+
+th {
+  width: 380px;
+  font-size: 18px;
+}
+
+td {
+  font-size: 18px;
+}
+
+h3 {
+  padding-top: 50px;
+  text-align: center;
+  font-size: 30px;
+  color: rgb(173, 218, 52);
+}
+
+h4 {
+  padding-top: 60px;
+  text-align: center;
+  font-size: 28px;
+  color: rgb(30, 43, 224);
+  font-family: "Playfair Display", serif;
+  margin-bottom: 0;
+}
+
+.prologue {
+  text-align: center;
+  font-size: 28px;
+  font-family: "Playfair Display", serif;
+}
